@@ -1,9 +1,3 @@
-ChatGPT said:
-
-Below is a complete README.md file for your Color Guessing Game, fully written based on the features in your JavaScript code.
-
-If you want, I can also create badges, screenshots section, or a more advanced layout.
-
 🎨 Color Guessing Game
 
 A fun and interactive color-matching challenge where you test your ability to identify the correct RGB color from a set of colored boxes. Your streak, best streak, and lives determine how far you can go — with Easy and Hard modes for different skill levels!
