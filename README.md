@@ -2,7 +2,7 @@
 
 A fun and interactive color-matching challenge where you test your ability to identify the correct RGB color from a set of colored boxes. Your streak, best streak, and lives determine how far you can go — with Easy and Hard modes for different skill levels!
 
-🌟 Game Features (Based on Your Code)
+🌟 Game Features (Based on Your Code) 
 👤 User Personalization
 
 Prompts the user for their name on page load
